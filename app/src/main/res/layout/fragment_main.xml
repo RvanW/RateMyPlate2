@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivityFragment"
+    android:orientation="vertical"
+    android:id="@+id/fragment_layout"
+    android:background="#b7c3ff">
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listView"
+        android:background="#D96C62"
+        android:drawSelectorOnTop="true"/>
+
+</LinearLayout>

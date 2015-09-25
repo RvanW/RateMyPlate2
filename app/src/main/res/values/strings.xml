@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RateMyPlate2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="preference_file_key">SharedPrefs</string>
+
+
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="sort_prompt">Sort by..</string>
+    <string-array name="sort_values">
+        <item>Rating</item>
+        <item>Title</item>
+    </string-array>
+</resources>
